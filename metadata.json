@@ -1,0 +1,6 @@
+{
+  "name": "AI-Based Early Warning and Landslide Risk Monitoring System for NER",
+  "description": "Decision-support and early-warning landslide risk monitoring system for the North Eastern Region of India combining rainfall, sensor telemetries, terrain risk mapping, and citizen reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
